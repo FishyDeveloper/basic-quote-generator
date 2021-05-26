@@ -17,3 +17,8 @@ Zip install
 3. Right click to the installed Zip file
 4. Select Extract files...
 5. Extract to the file from no.2
+
+# How to start the enviroment
+1. Open new terminal
+2. Write npm install
+3. After finished, write npm run
