@@ -12,3 +12,4 @@ With gitbash:
 4. Open with VSCode (highly recommended)
 
 Zip install
+1.
