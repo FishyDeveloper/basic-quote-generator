@@ -12,4 +12,8 @@ With gitbash:
 4. Open with VSCode (highly recommended)
 
 Zip install
-1.
+1. Press the green button with download icon and then click download Zip
+2. Create a folder for the Zip (Recommended at .vscode as its easier to locate)
+3. Right click to the installed Zip file
+4. Select Extract files...
+5. Extract to the file from no.2
