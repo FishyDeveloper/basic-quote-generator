@@ -1,6 +1,6 @@
 # Basic Quote Generator
 
-FishyDeveloper's small project
+FishyDeveloper's small project with react js
 
 # How to install
 
